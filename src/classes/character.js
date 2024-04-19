@@ -1,6 +1,6 @@
 export const playerStats = {
     level: 44,
-    maxHealth: 20, //177,
+    maxHealth: 177,
     name:'El Vitis',
     img:'',
     color:'green',
@@ -12,7 +12,7 @@ export const playerStats = {
 }
 export const opponentStats = {
     level: 44,
-    maxHealth: 20,//188,
+    maxHealth: 188,
     name:'Machete',
     img:'',
     color:'purple',
